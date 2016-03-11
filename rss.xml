@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Matt Dusenbury]]></title>
         <description><![CDATA[Matt Dusenbury]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/duse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:17:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 22:08:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/duse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Facebook Reactions Will Change Publishing]]></title>
+            <description><![CDATA[<article><h1>How Facebook Reactions Will Change Publishing</h1><p>The debut of Reactions last week was heralded with a pair of blog posts to hype its release. The first, written by product manager Sammi Krug, lauded the update as a bold new step for Facebook after years of building the Like button’s value. The other, posted by Facebook product design director Geoff Teehan, detailed the work that went into developing the new system and its five new choices: Love, Haha, Wow, Angry and Sad. Together, these posts illustrate two major points:</p></article>]]></description>
+            <link>https://thegrid.ai/duse/how-facebook-reactions-will-change-publishing/index.html</link>
+            <guid isPermaLink="false">f02dad71-0315-4172-8eef-31b01d336765</guid>
+            <pubDate>Fri, 11 Mar 2016 22:07:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid]]></title>
             <description><![CDATA[<article><h1>The Grid</h1><p>A digital frontier. I tried to picture clusters of information as they moved through the computer. What did they look like? Ships? motorcycles? Were the circuits like freeways? I kept dreaming of a world I thought I'd never see. And then, one day...I got in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b26df2cd242f86bf5042560824e6475933db669.gif"></article>]]></description>
-            <link>undefinedthe-grid/index.html</link>
+            <link>https://thegrid.ai/duse/the-grid/index.html</link>
             <guid isPermaLink="false">3a416d82-fe1e-419e-b3b3-87acb1fdd863</guid>
             <pubDate>Thu, 10 Mar 2016 02:16:49 GMT</pubDate>
         </item>
