@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matt Dusenbury]]></title>
+        <description><![CDATA[Matt Dusenbury]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 15:12:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Promising Practices In Long Term Care]]></title>
+            <description><![CDATA[<article><h1>Promising Practices In Long Term Care</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf06c7ba-5b3d-4ab9-be3b-d4ff31007603.jpg"></article>]]></description>
+            <link>undefinedpromising-practices-in-long-term-care/index.html</link>
+            <guid isPermaLink="false">0d8eafcf-03db-40e1-ad83-2d99bcc74860</guid>
+            <pubDate>Tue, 26 Apr 2016 15:12:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
